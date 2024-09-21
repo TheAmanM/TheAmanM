@@ -41,7 +41,7 @@ I'm Aman. I am a passionate software engineer with a background in ReactJS and F
 
 <div style='margin-block: 2rem; gap: 1rem; justify-content: center; display: flex; align-items: center; /* position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background-color: #050F2C; padding: 0.75rem 2rem; border: 1px solid white; border-radius: 0.75rem; */'>
 <a href="https://linkedin.ca/in/aman-meherally" target="blank"><img align="center" src="./icons/linkedin.svg" alt="LinkedIn" height="24" width="24"/></a>
-<a href='https://github.com/TheAmanM' target='blank'><img align="center" src='./icons/cv.svg' alt="CV" height="24" width="24" /></a>
+<a href='https://docs.google.com/document/d/115eaxNCZSWq6BHfoiEfC0OPvyuX4xya7LYYUkSKHNpA/edit?usp=drivesdk' target='blank'><img align="center" src='./icons/cv.svg' alt="CV" height="24" width="24" /></a>
 <a href='mailto:amanmeherally@gmail.com' target='blank'><img align="center" src='./icons/email.svg' alt="Email" height="24" width="24" /></a>
 </div>
 
