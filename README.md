@@ -24,7 +24,7 @@ Update the href attribute with your actual URLs.
   <a href="https://www.linkedin.com/in/aman-meherally/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.amanmeherally.com/resume.pdf" target="_blank">
+  <a href="https://api.amanmeherally.com/resume" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=ReadMe&logoColor=black" alt="Resume"/>
   </a>
 </p>
@@ -63,30 +63,22 @@ They use the "tokyonight" theme to match the aesthetic of your website screensho
 -->
 
 <h2>Statistics</h2>
+<div align="center">
+  <div style="display: flex; flex-direction: column; gap: 16px; width: 100%; max-width: 800px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=theamanm&show_icons=true&theme=radical" alt="Aman's GitHub Stats" style="width: 100%; min-width: 0;" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamanm&layout=compact&theme=radical" alt="Aman's Top Languages" style="width: 100%; min-width: 0;" />
+    </a>
+  </div>
+</div>
 
-<p>
-<!-- GitHub Stats Card -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=TheAmanM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    alt="Aman's GitHub Stats"
-  />
-</a>
-<!-- Top Languages Card -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmanM&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Aman's Top Languages"
-  />
-</a>
-<!-- Streak Stats Card -->
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img
-    align="center"
-    src="https://streak-stats.demolab.com/?user=TheAmanM&theme=tokyonight&hide_border=true"
-    alt="Aman's Contribution Streak"
-  />
-</a>
-</p>
+<!-- Responsive layout for GitHub stats cards -->
+<style>
+@media (min-width: 768px) {
+  div[align="center"] > div {
+    flex-direction: row !important;
+  }
+}
+</style>
