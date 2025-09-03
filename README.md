@@ -1,48 +1,100 @@
-<img src="./assets/hero-banner.svg" style='margin-bottom: 0.5rem'/>
+<!--
+Banner Section
+This banner will be displayed at the top of your profile.
+Make sure the banner.png file is in the root of this repository (your special TheAmanM/TheAmanM repo).
+-->
 
-<div align='center' style='margin-bottom: 2rem'>
+<p align="center">
+<img src="/assets/banner.png" alt="Aman Meherally Banner" width="100%"/>
+</p>
 
-![](https://img.shields.io/badge/-Flutter-027DFD?style=for-the-badge&logo=flutter&logoColor=white) &nbsp; ![](https://img.shields.io/badge/-Dart-01579B?style=for-the-badge&logo=dart&logoColor=white) &nbsp; ![](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black) &nbsp; ![](https://img.shields.io/badge/-HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![](https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&logo=css3&logoColor=white) &nbsp; ![](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black) &nbsp; ![](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white) &nbsp; ![](https://img.shields.io/badge/-Discord%20js-2C2F33?style=for-the-badge&logo=discord&logoColor=white) &nbsp; ![](https://img.shields.io/badge/-VS%20CODE-252526?style=for-the-badge&logo=visualstudiocode&logoColor=white) &nbsp; ![](https://img.shields.io/badge/-NODE-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<!--
+Social Links Section
+These badges link to your professional profiles.
+Update the href attribute with your actual URLs.
+-->
 
-</div>
+<p align="center">
+<a href="https://www.amanmeherally.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-1A1A1A%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="Website"/>
+</a>
+<a href="https://www.google.com/search?q=https://www.amanmeherally.com/blog" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Blog-1A1A1A%3Fstyle%3Dfor-the-badge%26logo%3Dghost%26logoColor%3Dwhite" alt="Blog"/>
+</a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/aman-meherally/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="https://www.google.com/search?q=https://www.amanmeherally.com/resume.pdf" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Resume-FF5733%3Fstyle%3Dfor-the-badge%26logo%3DReadMe%26logoColor%3Dwhite" alt="Resume"/>
+</a>
+</p>
 
-# Hey there! ✌️
+<!--
+Introduction Section
+This section is inspired by the content on your website's homepage.
+-->
 
-I'm Aman. I am a passionate software engineer with a background in ReactJS and Flutter. I work on random projects all the time. I love the process of taking the time to get to know a brand new framework / library better!
+<h1 align="center">Hi there 👋, I'm Aman!</h1>
 
-- 🔭 Currently working on: **Decrypting the Matrix**
-- 🌱 Currently learning: **React and CSS Syntax**
-- ✨ I want to: **Contribute to more Open Source projects**
+<p align="center">
+In my family, I'm the robot. <br/>
+I seem to speak a language that nobody else understands: <code>code</code>. It looks a little something like this.
+</p>
 
-<div style='margin-bottom: 2rem'></div>
+/\*\*
 
-<!-- ## Some Numbers -->
+- @returns {Object} An object with all things Aman.
+- @author Aman Meherally
+  \*/
+  function getAman() {
+  return {
+  name: "Aman Meherally",
+  role: "Full Stack Developer",
+  skills: ["Nest.js", "TypeScript", "Firebase", "React", "PostgreSQL"],
+  mission: "Build beautiful applications using big words",
+  };
+  }
 
-<!-- <div style='display: grid; grid-template-columns: 1fr 1fr; place-items: center center; gap: 1rem; margin-top: 1rem;'> -->
+<!--
+GitHub Stats Section
+These are dynamic stats cards that will update automatically.
+They use the "tokyonight" theme to match the aesthetic of your website screenshot.
+-->
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAmanM&hide=contribs&theme=algolia&border_radius=20)
+<h2 align="center">📊 My GitHub Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmanM&layout=compact&langs_count=4&theme=algolia&border_radius=20&border_color=white&hide=prs)](https://github.com/TheAmanM/github-readme-stats) -->
+<p align="center">
+<!-- GitHub Stats Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img
+align="center"
+src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTheAmanM%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue"
+alt="Aman's GitHub Stats"
+/>
+</a>
+<!-- Top Languages Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img
+align="center"
+src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTheAmanM%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue"
+alt="Aman's Top Languages"
+/>
+</a>
+<!-- Streak Stats Card -->
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<img
+align="center"
+src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3DTheAmanM%26theme%3Dtokyonight%26hide_border%3Dtrue"
+alt="Aman's Contribution Streak"
+/>
+</a>
+</p>
 
-<!-- <div style='display: flex; justify-content: space-between; margin: 0; padding: 0;background-color: blue'> -->
+<!--
+Profile Views Counter
+This is a simple badge that counts views on your GitHub profile.
+-->
 
-<!-- <a href="https://github.com/TheAmanM/TheAmanM" style='padding: 0;'> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmanM&hide=java,html,tex&theme=algolia&border_radius=16&langs_count=3"/> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/TheAmanM/TheAmanM"> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=TheAmanM&show_icons=true&line_height=27&count_private=true&theme=algolia&border_radius=16" alt="Martin's GitHub Stats" /> -->
-<!-- </a> -->
-
-<!-- </div> -->
-
-<!-- </div> -->
-
----
-
-<div style='margin-block: 2rem; gap: 1rem; justify-content: center; display: flex; align-items: center; /* position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background-color: #050F2C; padding: 0.75rem 2rem; border: 1px solid white; border-radius: 0.75rem; */'>
-<a href="https://linkedin.ca/in/aman-meherally" target="blank"><img align="center" src="./icons/linkedin.svg" alt="LinkedIn" height="24" width="24"/></a>
-<a href='https://docs.google.com/document/d/115eaxNCZSWq6BHfoiEfC0OPvyuX4xya7LYYUkSKHNpA/edit?usp=drivesdk' target='blank'><img align="center" src='./icons/cv.svg' alt="CV" height="24" width="24" /></a>
-<a href='mailto:amanmeherally@gmail.com' target='blank'><img align="center" src='./icons/email.svg' alt="Email" height="24" width="24" /></a>
-</div>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmanM&theme=algolia&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DTheAmanM%26label%3DProfile%2520Views%26color%3Dblueviolet%26style%3Dflat" alt="theamanm profile views" />
+</p>
