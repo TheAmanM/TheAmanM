@@ -63,22 +63,9 @@ They use the "tokyonight" theme to match the aesthetic of your website screensho
 -->
 
 <h2>Statistics</h2>
-<div align="center">
-  <div style="display: flex; flex-direction: column; gap: 16px; width: 100%; max-width: 800px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=theamanm&show_icons=true&theme=radical" alt="Aman's GitHub Stats" style="width: 100%; min-width: 0;" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamanm&layout=compact&theme=radical" alt="Aman's Top Languages" style="width: 100%; min-width: 0;" />
-    </a>
-  </div>
-</div>
-
-<!-- Responsive layout for GitHub stats cards -->
-<style>
-@media (min-width: 768px) {
-  div[align="center"] > div {
-    flex-direction: row !important;
-  }
-}
-</style>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=theamanm&show_icons=true&theme=radical" alt="Aman's GitHub Stats" style="width: 100%; min-width: 0;" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamanm&layout=compact&theme=radical" alt="Aman's Top Languages" style="width: 100%; min-width: 0;" />
+</a>
