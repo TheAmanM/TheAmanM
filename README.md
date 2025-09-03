@@ -18,12 +18,15 @@ Update the href attribute with your actual URLs.
   <a href="https://www.amanmeherally.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=probot&logoColor=white" alt="Website"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.amanmeherally.com/blog" target="_blank">
     <img src="https://img.shields.io/badge/Blog-1A1A1A?style=for-the-badge&logo=circle&logoColor=white" alt="Blog"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aman-meherally/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://api.amanmeherally.com/resume" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=ReadMe&logoColor=black" alt="Resume"/>
   </a>
@@ -55,25 +58,3 @@ function getAman() {
   };
 }
 ```
-
-<!--
-GitHub Stats Section
-These are dynamic stats cards that will update automatically.
-They use the "tokyonight" theme to match the aesthetic of your website screenshot.
--->
-
-<h2>Cool things</h2>
-<p align="center" style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <a href="https://github.com/TheAmanM/docs" style="margin: 2px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheAmanM&repo=docs&theme=radical" />
-  </a>
-  <a href="https://github.com/TheAmanM/search-gpt" style="margin: 2px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheAmanM&repo=search-gpt&theme=radical" />
-  </a>
-  <a href="https://github.com/TheAmanM/webring" style="margin: 2px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uoft-webring&repo=webring&theme=radical" />
-  </a>
-  <a href="https://github.com/TheAmanM/campus-share" style="margin: 2px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Campus-Share&repo=campus-share&theme=radical" />
-  </a>
-</p>
