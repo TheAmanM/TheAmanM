@@ -63,9 +63,11 @@ They use the "tokyonight" theme to match the aesthetic of your website screensho
 -->
 
 <h2>Statistics</h2>
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=theamanm&show_icons=true&theme=radical" alt="Aman's GitHub Stats" style="width: 100%; min-width: 0;" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=theamanm&show_icons=true&theme=radical" alt="Aman's GitHub Stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamanm&layout=compact&theme=radical" alt="Aman's Top Languages" style="width: 100%; min-width: 0;" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamanm&layout=compact&theme=radical" alt="Aman's Top Languages" />
 </a>
+</p>
