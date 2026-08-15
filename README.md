@@ -13,6 +13,7 @@ I build tools, prototypes and fun projects, because who said engineering can't b
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+- 🌐️ **[browser-sidebar-agent](https://github.com/TheAmanM/browser-sidebar-agent)** - A browser sidebar coding agent, so you can browse and prompt side by side
 - 🎙️ **[opencode-voice](https://github.com/TheAmanM/opencode-voice)** - Voice plugin for OpenCode
 - 🗃️ **[larp-sql](https://github.com/TheAmanM/larp-sql)** - SQL, but the entire row is in a single JSON column
 - 💾 **[larp-sql-website](https://github.com/TheAmanM/larp-sql-website)** - The LarpSQL landing page
